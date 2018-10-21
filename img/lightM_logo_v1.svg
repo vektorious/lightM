@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="lightM_logo_v1.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="612.66773"
+     inkscape:cy="616.53651"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g847"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="979"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#fbffce;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 98.840149,2.385149 38.553571,0 11.60629,62.312926 -74.666588,37.760775 z"
+       id="rect863"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       transform="rotate(26.400896)" />
+    <path
+       style="fill:#888888;fill-opacity:1;stroke:#010101;stroke-width:6.42519693;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 446.43945,166.91992 c -1.13297,-0.0489 -2.26847,0.45108 -2.99609,1.43555 l -7.20508,9.74805 c -1.1642,1.57515 -0.83296,3.77916 0.74219,4.94336 l 123.67578,91.41015 c -0.2149,1.17942 -0.326,2.3754 -0.33203,3.57422 0.001,4.59341 1.5437,9.05355 4.38086,12.66602 l -56.59766,131.25 h -69.53515 c -9.49713,0 -27.14454,13.64741 -27.14454,23.14453 v 8.85742 c 0,9.49716 7.64741,13.14258 17.14454,13.14258 H 550 c 9.49716,0 17.14258,-3.64542 17.14258,-13.14258 v -8.85742 c 0,-9.49712 -17.64542,-23.14453 -27.14258,-23.14453 h -10.99219 l 53.23633,-123.45118 c 10.75792,-0.73942 19.10692,-9.68153 19.10742,-20.46484 -2.3e-4,-11.32929 -9.18438,-20.51344 -20.51367,-20.51367 -2.88338,0.009 -5.73243,0.62611 -8.36133,1.81054 L 448.38867,167.61328 c -0.59068,-0.43657 -1.26943,-0.66404 -1.94922,-0.69336 z"
+       transform="scale(0.26458333)"
+       id="rect815"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccssssssssccccccc" />
+    <g
+       id="g847"
+       transform="rotate(26.424843,134.47532,92.358619)"
+       inkscape:transform-center-x="9.5894227"
+       inkscape:transform-center-y="9.6265416">
+      <path
+         sodipodi:nodetypes="csczc"
+         inkscape:connector-curvature="0"
+         id="path834"
+         d="m 69.896353,71.424514 c 0,-8.266097 9.333531,-14.967093 20.847024,-14.967093 11.513493,0 20.847023,6.700997 20.847023,14.967094 0,0 -2.36974,2.116669 -20.847024,2.116667 -18.477282,-3e-6 -20.847023,-2.116668 -20.847023,-2.116668 z"
+         style="fill:#888888;fill-opacity:1;stroke:#010101;stroke-width:1.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ssssssssss"
+         inkscape:connector-curvature="0"
+         id="rect836"
+         d="m 88.578357,46.835721 h 4.859198 c 1.40664,0 3.954454,3.788823 4.126561,5.184895 l 0.529167,4.292428 c 0.172107,1.396072 -1.702683,1.143197 -3.068227,1.480728 0,0 -2.209598,0.529166 -4.281683,0.529166 -2.105596,0 -4.281684,-0.529166 -4.281684,-0.529166 -1.365544,-0.337531 -3.221684,-0.08248 -3.068227,-1.480728 l 0.529167,-4.821595 c 0.153456,-1.398245 3.249088,-4.655728 4.655728,-4.655728 z"
+         style="fill:#888888;fill-opacity:1;stroke:#010101;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         transform="rotate(-164.59659)"
+         d="m -116.92031,-44.675825 a 10.891232,10.824416 0 0 1 1.14178,-12.349753 10.891232,10.824416 0 0 1 12.06156,-3.178445 10.891232,10.824416 0 0 1 7.148355,10.165147"
+         sodipodi:open="true"
+         sodipodi:end="0"
+         sodipodi:start="2.6232299"
+         sodipodi:ry="10.824416"
+         sodipodi:rx="10.891232"
+         sodipodi:cy="-50.038876"
+         sodipodi:cx="-107.45985"
+         sodipodi:type="arc"
+         id="path842"
+         style="fill:#fff595;fill-opacity:1;stroke:#010101;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       id="text868"
+       y="121.24108"
+       x="37.192856"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.04999924px;line-height:1.25;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.04999924px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="121.24108"
+         x="37.192856"
+         id="tspan866"
+         sodipodi:role="line">lightM</tspan></text>
+  </g>
+</svg>

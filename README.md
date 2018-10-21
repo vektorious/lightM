@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://github.com/vektorious/mbac/blob/master/img/logo_v1.png" width="300"/>
-<h1 align="center">Taking a closer look on how bacteria move!</h1>
-<h3 align="center">Deep analysis tools and low-cost hardware setup for bacterial motility determination</h3>
+<img src="https://github.com/vektorious/lightm/blob/master/img/lightM_logo_v1.png" width="300"/>
+<h1 align="center">Taking a closer look on how microbes move!</h1>
+<h3 align="center">Deep analysis tools and low-cost hardware setup for microbe motility determination</h3>
 </p>
 <!---
 
@@ -10,7 +10,7 @@
 -->
 
 ## Hello!
-Welcome to the MBac project repository! It started as part of Mozilla Open Leaders Round 5 in early 2018. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind MBac in this README and get in contact on [gitter](https://gitter.im/mbac-project/Lobby).
+Welcome to the LightM project repository! It started under the name [MBac](https://github.com/vektorious/mbac) as part of Mozilla Open Leaders Round 5 in early 2018. In the end of 2018 at the [Gathering for Open Science Hardware](http://openhardware.science/) we decided to change the name to lightM to reflect that the usage is not restricted just to bacteria. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind LightM in this README and get in contact on [gitter](https://gitter.im/mbac-project/Lobby).
 <p align="center">
 :star::star2: <a href="https://github.com/vektorious/mbac/issues">Things we are currently working on</a> :star2::star:
 </p>

@@ -29,5 +29,3 @@ There are many thing which can added to the build/software. Here are just some i
 - image server
 - shape scoring
 - deep learning
-
-**Deadline: 09.05.2018**
