@@ -6,7 +6,7 @@
 <!---
 
 <img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"/>
-[![Generic badge](https://img.shields.io/badge/Open Science-Hardware-blue.svg)](http://openhardware.science/)
+[![Generic badge](https://img.shields.io/badge/Open Science-Hardware-blue.svg)](http://openhardware.science/) [![Join the chat at https://gitter.im/lightM-chat/Lobby](https://badges.gitter.im/lightM-chat/Lobby.svg)](https://gitter.im/lightM-chat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 -->
 
 ## Hello!
