@@ -1,10 +1,10 @@
-# Contributing to MBac
+# Contributing to LightM
 
 Welcome and thank you for your interest in contributing to LightM!
 
 This project is all about developing of software tools and a low-cost open hardware setup to study how bacteria move. With this we want to contribute to make the experiments more reproducible and to enable analysis of additional parameter. (For more background information have a look at the [README](https://github.com/vektorious/lightm))
 
-This documents is a set of guidelines for contributing to MBac on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+This documents is a set of guidelines for contributing to LightM on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 If you have any questions get in contact with us via [gitter](https://gitter.im/mbac-project/Lobby)!
 
@@ -21,9 +21,9 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-Check the issues of our [latest milestone](https://github.com/vektorious/mbac/milestone/1)!
+Check the issues of our [latest milestone](https://github.com/vektorious/lightM/milestone/1)!
 
-You can take a look at the complete [roadmap](https://github.com/vektorious/mbac/blob/master/ROADMAP.md) to find out what we are planning in the future
+You can take a look at the complete [roadmap](https://github.com/vektorious/lightM/blob/master/ROADMAP.md) to find out what we are planning in the future
 
 ## How to submit changes
 
@@ -37,11 +37,11 @@ First time contributing to open source? Check out this *free* series, [How to Co
 
 ## How to report bugs
 
-Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](https://github.com/vektorious/mbac/issues)!
+Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](https://github.com/vektorious/lightM/issues)!
 
 If you are new to GitHub issue tracker take a look [here](https://guides.github.com/features/issues/).
 
 ## Communication channels
-If you want to get in touch with us join our [gitter](https://gitter.im/mbac-project/Lobby) chat!
+If you want to get in touch with us join our [gitter](https://gitter.im/lightM-chat/Lobby) chat!
 
 This CONTRIBUTING.md was created using [this awesome template](https://github.com/acabunoc/mozsprint-repo-template/blob/master/CONTRIBUTING.md) from @acabunoc
