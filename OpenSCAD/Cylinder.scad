@@ -55,7 +55,7 @@ $fn=100;
 
 //extension_ring();
 
-camera_holder(type=3); //use type 1 for the RPI camera as it comes; type 2 for M12 lens (removing the native RPIlens) using puh-fit approach from R. Bowman; type 3 is for M12lens but using screws to attach it to camera
+camera_holder(type=1); //use type 1 for the RPI camera as it comes; type 2 for M12 lens (removing the native RPIlens) using puh-fit approach from R. Bowman; type 3 is for M12lens but using screws to attach it to camera
 
 //lighting_base(); // we are working to remove this huge printed piece
 
@@ -152,10 +152,10 @@ module cone(){
     if(type==1){
         RPI_lens();
     }
-    if (type==2){
+   else  if (type==2){
     M12_push_fit();
     }
-     if (type==3){
+    else  if (type==3){
     M12_screwed();
         }}
    
@@ -379,10 +379,10 @@ module plate_ring(type){
      if(type==1){
 //to do
          }
-    if(type==2){
+    else if(type==2){
         ring_v2();
 }
-    if(type==3){
+    else if(type==3){
         ring_v3();
 }
     }
