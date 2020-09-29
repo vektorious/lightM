@@ -1,10 +1,10 @@
-# Contributing to LightM
+# Contributing to lightM
 
-Welcome and thank you for your interest in contributing to LightM!
+Welcome and thank you for your interest in contributing to lightM!
 
-This project is all about developing of software tools and a low-cost open hardware setup to study how bacteria move. With this we want to contribute to make the experiments more reproducible and to enable analysis of additional parameter. (For more background information have a look at the [README](https://github.com/vektorious/lightm))
+This project is all about developing of software tools and a low-cost open hardware setup to study how bacteria move. With this we want to contribute to make the experiments more reproducible and to enable analysis of additional parameter. (For more background information have a look at the [README](https://github.com/vektorious/lightM))
 
-This documents is a set of guidelines for contributing to LightM on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+This documents is a set of guidelines for contributing to lightM on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 If you have any questions get in contact with us via [gitter](https://gitter.im/mbac-project/Lobby)!
 
@@ -14,7 +14,7 @@ If you have any questions get in contact with us via [gitter](https://gitter.im/
 * [How to submit changes](#how-to-submit-changes)
 * [How to report bugs](#how-to-report-bugs)
 * [Communication channels](#communication-channels)
--->
+-->lightM
 ## Participation guidelines
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [Alex](mailto:alexander.kutschera@googlemail.com).
