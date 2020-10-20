@@ -10,7 +10,7 @@
 -->
 
 ## Hello!
-Welcome to the LightM project repository! It started under the name [MBac](https://github.com/vektorious/mbac) as part of Mozilla Open Leaders Round 5 in early 2018. In the end of 2018 at the [Gathering for Open Science Hardware](http://openhardware.science/) we decided to change the name to lightM to reflect that the usage is not restricted just to bacteria. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind LightM in this README and get in contact on [gitter](https://gitter.im/lightM-chat/Lobby).
+Welcome to the lightM project repository! It started under the name [MBac](https://github.com/vektorious/mbac) as part of Mozilla Open Leaders Round 5 in early 2018. In the end of 2018 at the [Gathering for Open Science Hardware](http://openhardware.science/) we decided to change the name to lightM to reflect that the usage is not restricted just to bacteria. Here we work on the development of software tools and a low-cost open hardware setup to study how bacteria move. If you are interested you can read a bit more about the idea behind lightM in this README and get in contact on [gitter](https://gitter.im/lightM-chat/Lobby).
 <p align="center">
 :star::star2: <a href="https://github.com/vektorious/lightM/issues">Things we are currently working on</a> :star2::star:
 </p>
@@ -81,4 +81,4 @@ If you like to try something new or you want to train your 3D design and coding 
 And ultimately we might be able to publish the results in a peer-reviewed scientific journal (which is open access of course!) or at least at a the preprint server [BioRxiv](https://www.biorxiv.org/) and you will be listed as co-author!
 
 ## Who is behind all this?
-I am a PhD student at the Technical University of Munich, combining microbiology, plant sciences and biochemistry in my research. I love 3D printing, recreating scientific instruments and getting lost on unnecessary nerdy projects. LightM (formerly MBac)started as one of such nerdy projects but turned into something unexpectedly useful. If you want to know about other things I do and have done so far you can visit [my personal website](http://alexanderkutschera.com/) or follow me on [twitter](https://twitter.com/alexwastooshort).
+I am a PhD student at the Technical University of Munich, combining microbiology, plant sciences and biochemistry in my research. I love 3D printing, recreating scientific instruments and getting lost on unnecessary nerdy projects. lightM (formerly MBac)started as one of such nerdy projects but turned into something unexpectedly useful. If you want to know about other things I do and have done so far you can visit [my personal website](http://alexanderkutschera.me/) or follow me on [twitter](https://twitter.com/alexwastooshort).
