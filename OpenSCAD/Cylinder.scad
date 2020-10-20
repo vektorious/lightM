@@ -55,7 +55,7 @@ $fn=100;
 
 //extension_ring();
 
-camera_holder(type=1); //use type 1 for the RPI camera as it comes; type 2 for M12 lens (removing the native RPIlens) using puh-fit approach from R. Bowman; type 3 is for M12lens but using screws to attach it to camera
+camera_holder(type=2); //use type 1 for the RPI camera as it is; type 2 for M12 lens (removing the original RPIlens from the camera) and using push-fit approach from R. Bowman; type 3 is for M12 lenses but using screws to attach it to camera
 
 //lighting_base(); // we are working to remove this huge printed piece
 
@@ -178,8 +178,8 @@ module M12_push_fit(){
                 color("Blue") cube([base_xy, base_xy, mount_h], center = true);
                				rotate([ 0.00, 0.00, 45.00 ]) camera_mount_FF();
 			}	
-            // adjuted diameter reducing 3 to 3 corr (14 Feb 2019)
-        translate([0, 0, -base_h/2])  english_thread (diameter=(((M12_r*2)+(corr*2))/25.4), threads_per_inch=50.8, length=mount_h*1.5/25.4,internal=true, n_starts=1, thread_size=-1, groove=true,square=false, rectangle=0, angle=30, taper=0, leadin=1);
+            // adjuted diameter increasing to 3 corr (2020)
+        translate([0, 0, -base_h/2])  english_thread (diameter=(((M12_r*2)+(corr*3))/25.4), threads_per_inch=50.8, length=mount_h*1.5/25.4,internal=true, n_starts=1, thread_size=-1, groove=true,square=false, rectangle=0, angle=30, taper=0, leadin=1);
 	}
 }
 
@@ -242,7 +242,7 @@ module velvet_background_ring_v1(){
 /*--------------------------------------------------------------------------------------------------------
 These modules below use Richard Bowman's code to make push fit camera holder and cover. See openflexure for mor einformation (https://github.com/rwb27/openflexure_microscope). Module camera_mount_FF and RPIcam_cover were modified from Richard ´s code
 --------------------------------------------------------------------------------------------------------*/
-
+//rotate([0,0,-45]) camera_mount_FF();
 module camera_mount_FF(){
     // A mount for the pi camera v2
     // This should finish at z=0+d, with a surface that can be
@@ -353,8 +353,8 @@ module RPIcam_cover(){
         
 		//screw holes for safety (M2 "threaded")
 		reflect([1,0,0]) translate([21/2,0,0]){
-            cylinder(r1=2.5, r2=1, h=2, center=true, $fn=100);
-            cylinder(r=1, h=7, $fn=100);
+            cylinder(r1=1/*2.5*/, r2=0.7, h=2, center=true, $fn=100);
+            color("red")cylinder(r=0.7, h=7, $fn=100);
         }
 	}
 }
